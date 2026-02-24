@@ -93,8 +93,8 @@ Clone do site da HBO Max desenvolvido para praticar front-end moderno e responsi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakarpg&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakarpg&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakarpg&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakarpg&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
