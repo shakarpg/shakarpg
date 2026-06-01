@@ -1,118 +1,52 @@
-# 👋 Olá, eu sou Rafael Pereira Galhardo (shakarpg)
+# Olá, eu sou o Rafael Galhardo 
 
-  💻 **Desenvolvedor Full Stack**
-  
-  🎓 Graduando em **Análise e Desenvolvimento de Sistemas – Uniube**
-  🚀 Em constante evolução no universo da tecnologia
+Sólida bagagem analítica e de processos como Inspetor de Qualidade e Planejamento de Manutenção (PCM), traduzida em código limpo, lógica estruturada e arquiteturas de software de alta performance. Atualmente, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela Uniube e focado na engenharia de ecossistemas backend, microsserviços modernos, automação de infraestrutura e integração com Inteligência Artificial.
 
-> “Cada projeto é uma nova história — e eu estou aqui para escrever o máximo possível.”
+Minha transição de carreira é impulsionada pela habilidade de transformar problemas complexos de negócio em soluções de software simplificadas, escaláveis e resilientes.
 
 ---
 
-## 🚀 Sobre Mim
+### 🛠️ Ecossistema Técnico & Stacks
 
-Sou um desenvolvedor apaixonado por tecnologia, movido por desafios e aprendizado contínuo.
-Mesmo tendo iniciado minha jornada recentemente, já construí projetos envolvendo **IA, Web, Cloud e DevOps**, sempre buscando unir teoria e prática.
-
-🎯 Meu foco atual:
-
-* Desenvolvimento Full Stack moderno
-* Inteligência Artificial aplicada
-* Arquitetura de APIs
-* Cloud Computing (Azure & AWS)
-* DevOps e Containers
+*   **Linguagens de Programação:** Go (Golang), Python, Rust, Java, Kotlin, JavaScript, C#, C.
+*   **Arquitetura, APIs & Mensageria:** gRPC, Protocol Buffers, FastAPI, REST APIs.
+*   **Infraestrutura, DevOps & Cloud:** Docker, Docker Compose, Kubernetes, Swarm, Vagrant, Automação de Infraestrutura.
+*   **Testes & Qualidade de Software:** Cypress, Garantia de Qualidade (QA), Automação de Testes.
+*   **Sistemas de Dados & Corporativos:** Modelagem de Dados, Controle de Processos, SAP, ERP.
+*   **Inteligência Artificial:** Engenharia de Prompts Avançada, Integração de APIs de LLMs (OpenAI/ChatGPT).
 
 ---
 
-## 🛠️ Stack Principal
+### 🚀 Projetos de Destaque (Minha Vitrine)
 
-### 💻 Front-end
+#### 🌐 [Distributed Microservices Architecture](https://github.com/shakarpg) <!-- Adicione o link correto do repositório aqui se for o caso -->
+Orquestração de microsserviços backend utilizando **Go** e **Python (FastAPI)**, comunicando-se via **gRPC** e **Protocol Buffers** para garantir alta performance e baixa latência. Todo o ambiente é isolado e automatizado via **Docker Compose**.
 
-`HTML` • `CSS` • `JavaScript` • `React` • `TailwindCSS`
+#### 🐳 [Distributed Swarm Infrastructure](https://github.com/shakarpg/docker-projeto2-cluster)
+Provisionamento de infraestrutura automatizada e criação de um cluster de alta disponibilidade utilizando **Docker Swarm** e **Vagrant**. Demonstração prática de resiliência, balanceamento de carga e gerenciamento de containers em escala.
 
-### ⚙️ Back-end
+#### 🧠 [Vision Estoque Financeiro](https://github.com/shakarpg/Vision_Estoque_Financeiro_Applet)
+Sistema focado em controle de fluxo e gerenciamento inteligente, unindo lógica backend robusta com visões analíticas e automação de dados.
 
-`Node.js` • `.NET` • `C#` • `Python` • `Java`
-`Django` • `Flask` • `FastAPI`
-
-### 🗄️ Banco de Dados
-
-`SQL` • `MySQL` • `ETL`
-
-### ☁️ Cloud & DevOps
-
-`Docker` • `Kubernetes` • `Azure` • `AWS`
-`CI/CD` • `GitHub Copilot`
-
-### 🤖 Inteligência Artificial
-
-`Machine Learning` • `LangChain` • `RAG` • `IA aplicada`
+#### 🤖 [AI-Driven Automations](https://github.com/shakarpg/recriando-chatgpt)
+Desenvolvimento de aplicações integradas a modelos de linguagem avançados, incluindo bots automatizados para Telegram utilizando a API do ChatGPT e pipelines de geração de mídia/podcasts via IA.
 
 ---
 
-## 🔥 Projetos em Destaque
+### 🎓 Certificações & Formações Relevantes
 
-### 📦 Vision Estoque Financeiro Applet
-
-Sistema que utiliza IA (Gemini Flash 2.5 Pro) para análise de imagens de estoque, extraindo automaticamente informações relevantes.
-
-**Stack:** Python • Flask • Docker • CI/CD • Google AI Studio
-🔗 [https://github.com/shakarpg/Vision_Estoque_Financeiro_Applet](https://github.com/shakarpg/Vision_Estoque_Financeiro_Applet)
-
----
-
-### 🤖 Imersão Agentes de IA
-
-Projeto focado na criação de agentes inteligentes com LangChain e arquitetura RAG.
-
-**Stack:** Python • LangChain • LangGraph • RAG
-🔗 [https://github.com/shakarpg/Imersao_Agentes_IA](https://github.com/shakarpg/Imersao_Agentes_IA)
+*   Formação Microsoft AI-102 (DIO)
+*   Bootcamp Go Developer — Digital Innovation One (DIO)
+*   Bootcamp Java & Cloud Developer — Digital Innovation One (DIO)
+*   Bootcamp Suzano Python Developer — Digital Innovation One (DIO)
+*   UI/UX Formation — Digital Innovation One (DIO)
 
 ---
 
-### 🎬 HBO CSS Clone
-
-Clone do site da HBO Max desenvolvido para praticar front-end moderno e responsividade.
-
-**Stack:** HTML • SCSS • JavaScript
-🔗 [https://github.com/shakarpg/hbo-css](https://github.com/shakarpg/hbo-css)
 
 ---
 
-## 🎓 Certificações & Formações
+### 📬 Vamos nos conectar?
 
-* 🎓 Formação Santander Java Developer 2025 – DIO
-* 🎓 Formação Microsoft Azure 2025 – DIO
-* 🎓 Formação .NET e Inteligência Artificial – Avanade + DIO
-* 🎓 Análise de Dados com MySQL + Power BI + ETL + Azure – Randstad + DIO
-* 🎓 Machine Learning Training – BairesDev
-* 🎓 Bootcamp Meutudo Mobile Developer – DIO
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakarpg&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakarpg&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-
----
-
-## 🧩 Um Pouco Mais Sobre Mim
-
-🎲 RPGs (mesa e videogames)
-🎬 Filmes, séries e animes
-📚 Explorando o universo dos manhwas
-🧠 Valorizo críticas construtivas e evolução constante
-
----
-
-## 📬 Contato
-
-💼 LinkedIn: [https://www.linkedin.com/in/rpg2011](https://www.linkedin.com/in/rpg2011)
-🌐 DIO: [https://www.dio.me/users/rafaelpereiragalhardo](https://www.dio.me/users/rafaelpereiragalhardo)
-📧 [rafaelpereiragalhardo@gmail.com](mailto:rafaelpereiragalhardo@gmail.com)
-🚀 Portfólio: [https://gitfollio.vercel.app/shakarpg](https://gitfollio.vercel.app/shakarpg)
-
----
+*   **LinkedIn:** [linkedin.com/in/rpg2011](https://linkedin.com/in/rpg2011) 
+*   **E-mail:** [rafaelpereiragalhardo@gmail.com]
