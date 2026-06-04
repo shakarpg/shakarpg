@@ -1,4 +1,9 @@
-# Olá, eu sou o Rafael Galhardo 
+# Olá, eu sou o Rafael Galhardo 👋
+
+<p align="left">
+  <a href="https://linkedin.com/in/rpg2011"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rafaelpereiragalhardo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 Sólida bagagem analítica e de processos como Inspetor de Qualidade e Planejamento de Manutenção (PCM), traduzida em código limpo, lógica estruturada e arquiteturas de software de alta performance. Atualmente, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela Uniube e focado na engenharia de ecossistemas backend, microsserviços modernos, automação de infraestrutura e integração com Inteligência Artificial.
 
@@ -8,45 +13,54 @@ Minha transição de carreira é impulsionada pela habilidade de transformar pro
 
 ### 🛠️ Ecossistema Técnico & Stacks
 
-*   **Linguagens de Programação:** Go (Golang), Python, Rust, Java, Kotlin, JavaScript, C#, C.
-*   **Arquitetura, APIs & Mensageria:** gRPC, Protocol Buffers, FastAPI, REST APIs.
-*   **Infraestrutura, DevOps & Cloud:** Docker, Docker Compose, Kubernetes, Swarm, Vagrant, Automação de Infraestrutura.
-*   **Testes & Qualidade de Software:** Cypress, Garantia de Qualidade (QA), Automação de Testes.
-*   **Sistemas de Dados & Corporativos:** Modelagem de Dados, Controle de Processos, SAP, ERP.
-*   **Inteligência Artificial:** Engenharia de Prompts Avançada, Integração de APIs de LLMs (OpenAI/ChatGPT).
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+</p>
+
+*   **Linguagens:** Go (Golang), Python, Java, TypeScript, C#, Rust.
+*   **Arquitetura & APIs:** gRPC, Protocol Buffers, FastAPI, REST APIs, Microsserviços.
+*   **DevOps & Cloud:** Docker, Kubernetes, Terraform, CI/CD, AWS/Azure.
+*   **IA & Automação:** Prompt Engineering, Integração de LLMs, LangChain, Agentes Autônomos.
 
 ---
 
-### 🚀 Projetos de Destaque (Minha Vitrine)
+### 🚀 Projetos de Destaque
 
-#### 🌐 [Distributed Microservices Architecture](https://github.com/shakarpg) <!-- Adicione o link correto do repositório aqui se for o caso -->
-Orquestração de microsserviços backend utilizando **Go** e **Python (FastAPI)**, comunicando-se via **gRPC** e **Protocol Buffers** para garantir alta performance e baixa latência. Todo o ambiente é isolado e automatizado via **Docker Compose**.
-
-#### 🐳 [Distributed Swarm Infrastructure](https://github.com/shakarpg/docker-projeto2-cluster)
-Provisionamento de infraestrutura automatizada e criação de um cluster de alta disponibilidade utilizando **Docker Swarm** e **Vagrant**. Demonstração prática de resiliência, balanceamento de carga e gerenciamento de containers em escala.
-
-#### 🧠 [Vision Estoque Financeiro](https://github.com/shakarpg/Vision_Estoque_Financeiro_Applet)
-Sistema focado em controle de fluxo e gerenciamento inteligente, unindo lógica backend robusta com visões analíticas e automação de dados.
-
-#### 🤖 [AI-Driven Automations](https://github.com/shakarpg/recriando-chatgpt)
-Desenvolvimento de aplicações integradas a modelos de linguagem avançados, incluindo bots automatizados para Telegram utilizando a API do ChatGPT e pipelines de geração de mídia/podcasts via IA.
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[Distributed Swarm Infrastructure](https://github.com/shakarpg/docker-projeto2-cluster)** | Infraestrutura automatizada com cluster de alta disponibilidade usando Docker Swarm e Vagrant. | `Docker` `Vagrant` `Shell` |
+| **[AI-Driven Automations](https://github.com/shakarpg/recriando-chatgpt)** | Integração com modelos de linguagem, bots para Telegram e pipelines de geração de mídia. | `Python` `OpenAI` `API` |
+| **[Imersão Agentes IA](https://github.com/shakarpg/Imersao_Agentes_IA)** | Desenvolvimento de agentes autônomos e fluxos inteligentes com IA. | `Python` `LangChain` `LLMs` |
+| **[GoQueue](https://github.com/shakarpg/goqueue)** | Sistema de fila de jobs e processamento assíncrono demonstrando concorrência em Go. | `Go` `Goroutines` `Channels` |
 
 ---
 
-### 🎓 Certificações & Formações Relevantes
+### 📊 Estatísticas do GitHub
 
-*   Formação Microsoft AI-102 (DIO)
-*   Bootcamp Go Developer — Digital Innovation One (DIO)
-*   Bootcamp Java & Cloud Developer — Digital Innovation One (DIO)
-*   Bootcamp Suzano Python Developer — Digital Innovation One (DIO)
-*   UI/UX Formation — Digital Innovation One (DIO)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakarpg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakarpg&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages">
+</p>
 
 ---
 
+### 🎓 Certificações Relevantes
+
+*   🏆 **Microsoft AI-102** - Azure AI Engineer Associate
+*   🚀 **Bootcamp Go Developer** - Digital Innovation One (DIO)
+*   ☕ **Bootcamp Java & Cloud Developer** - DIO
+*   🐍 **Bootcamp Python Developer** - DIO
 
 ---
 
 ### 📬 Vamos nos conectar?
 
 *   **LinkedIn:** [linkedin.com/in/rpg2011](https://linkedin.com/in/rpg2011) 
-*   **E-mail:** [rafaelpereiragalhardo@gmail.com]
+*   **E-mail:** [rafaelpereiragalhardo@gmail.com](mailto:rafaelpereiragalhardo@gmail.com)
