@@ -5,7 +5,7 @@
   <a href="mailto:rafaelpereiragalhardo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Sólida bagagem analítica e de processos como Inspetor de Qualidade e Planejamento de Manutenção (PCM), traduzida em código limpo, lógica estruturada e arquiteturas de software de alta performance. Atualmente, graduando em **Análise e Desenvolvimento de Sistemas (ADS)** pela Uniube e focado na engenharia de ecossistemas backend, microsserviços modernos, automação de infraestrutura e integração com Inteligência Artificial.
+Sólida bagagem analítica e de processos como Inspetor de Qualidade e Planejamento de Manutenção (PCM), traduzida em código limpo, lógica estruturada e arquiteturas de software de alta performance. Atualmente, fazendo graduação em **Análise e Desenvolvimento de Sistemas (ADS)** pela Uniube e focado na engenharia de ecossistemas backend, microsserviços modernos, automação de infraestrutura e integração com Inteligência Artificial.
 
 Minha transição de carreira é impulsionada pela habilidade de transformar problemas complexos de negócio em soluções de software simplificadas, escaláveis e resilientes.
 
